@@ -1,0 +1,23 @@
+#summary Debian Monkeys 0.3 release page
+
+= Debian Monkeys 0.3 =
+
+ * Released in Apr 30, 2007.
+
+== Download ==
+
+ * [http://debian-monkeys.googlecode.com/files/debian-monkeys-0.3.tar.gz debian-monkeys-0.3.tar.gz]
+
+== Install ==
+
+ * Make sure that you have [http://www.greasespot.net greasemonkey extension] for Firefox, Iceweasel or Epiphany browser installed.
+ * [http://debian-monkeys.googlecode.com/files/debianmonkeys03.user.js Click with the right-button here] and then "Install user script".
+ * Open [http://www.debian.org debian.org] website.
+
+== Known Issues ==
+
+ * Sidebar links selection needs review.
+ * Sidebar position problem - "content leaks over left side".
+ * Link colors for both sidebar and content are wrong.
+ * debian.org/devel is broken due to inconsistency on the web page code.
+
