@@ -1,4 +1,5 @@
 #summary Debian Monkeys 0.3 release page
+#labels Featured
 
 = Debian Monkeys 0.3 =
 
@@ -20,4 +21,3 @@
  * Sidebar position problem - "content leaks over left side".
  * Link colors for both sidebar and content are wrong.
  * debian.org/devel is broken due to inconsistency on the web page code.
-
